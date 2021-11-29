@@ -1,0 +1,20 @@
+h1 {
+  margin-top: 300px;
+}
+
+#sidebar {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  gap: 30px;
+  background: #505050;
+  height: 100vh;
+}
+
+#sidebar > a {
+  text-decoration: none;
+  text-align: left;
+  color: #fff;
+  padding: 10px 20px 10px;
+  border-bottom: #fff solid 1px;
+}

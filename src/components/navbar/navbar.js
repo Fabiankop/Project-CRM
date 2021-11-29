@@ -27,7 +27,7 @@ export default class Menu extends React.Component {
 
   render() {
     return (
-      <Navbar fixed="top" id="navbar" bg="primary" variant="dark">
+      <Navbar id="navbar" bg="primary" variant="dark">
         <Container>
           <Navbar.Brand href="#home">
             Ciclo
