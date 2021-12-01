@@ -1,0 +1,9 @@
+#footer {
+  width: 100%;
+  float: left;
+  background-color: rgb(33, 65, 95);
+
+  bottom: 0;
+  z-index: 999999;
+  color: aliceblue !important;
+}

@@ -1,0 +1,38 @@
+#navbar #dropdown-header .row:nth-child(1) {
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+#navbar #dropdown-header .row:nth-child(2) {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+#navbar {
+  background: rgb(28, 135, 177);
+  background: radial-gradient(
+    circle,
+    rgb(28, 96, 136) 0%,
+    rgb(88, 42, 42) 100%,
+    rgba(148, 187, 233, 1) 100%
+  );
+}
+.logo {
+  /* cambia estos dos valores para definir el tamaño de tu círculo */
+  height: 70px;
+  width: 10%;
+  padding-right: 10px;
+  margin-left: -111px;
+
+  /* los siguientes valores son independientes del tamaño del círculo */
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 20%;
+  background-size: 50% auto;
+}
+
+#bu {
+  background-color: rgb(33, 65, 95);
+}

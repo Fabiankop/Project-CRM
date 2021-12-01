@@ -1,0 +1,22 @@
+#register-container {
+  margin-top: 10%;
+  margin-bottom: 123px;
+}
+
+#register-container h2,
+#register-container button,
+#register-container form {
+  width: 100%;
+}
+
+#register-container button {
+  margin-top: 15px;
+}
+
+#register-container .form-label {
+  float: left;
+}
+
+#boton {
+  background-color: rgb(33, 65, 95);
+}
